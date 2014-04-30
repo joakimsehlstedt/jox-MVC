@@ -1,5 +1,7 @@
-Anax-MVC
+jox-MVC
 =========
+Extended from the Anax-MVC by Mikael Roos
+---------
 
 [![Latest Stable Version](https://poser.pugx.org/leaphly/cart-bundle/version.png)](https://packagist.org/packages/anax/mvc)
 [![Build Status](https://travis-ci.org/mosbth/Anax-MVC.png?branch=master)](https://travis-ci.org/mosbth/Anax-MVC)
