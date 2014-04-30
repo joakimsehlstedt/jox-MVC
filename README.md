@@ -3,12 +3,6 @@ jox-MVC
 Extended from the Anax-MVC by Mikael Roos
 ---------
 
-[![Latest Stable Version](https://poser.pugx.org/leaphly/cart-bundle/version.png)](https://packagist.org/packages/anax/mvc)
-[![Build Status](https://travis-ci.org/mosbth/Anax-MVC.png?branch=master)](https://travis-ci.org/mosbth/Anax-MVC)
-[![Coverage Status](https://coveralls.io/repos/mosbth/Anax-MVC/badge.png)](https://coveralls.io/r/mosbth/Anax-MVC)
-[![Code Coverage](https://scrutinizer-ci.com/g/mosbth/Anax-MVC/badges/coverage.png?s=f999ab1961684a91050b095682f7ab7a13ccb534)](https://scrutinizer-ci.com/g/mosbth/Anax-MVC/)
-[![Scrutinizer Quality Score](https://scrutinizer-ci.com/g/mosbth/Anax-MVC/badges/quality-score.png?s=1c2fc1af0df7fb7ee1e4f379a81253583a750297)](https://scrutinizer-ci.com/g/mosbth/Anax-MVC/)
-
 A PHP-based and MVC-inspired (micro) framework / webbtemplate / boilerplate for websites and webbapplications.
 
 Read article about it here: ["Anax som MVC-ramverk"](http://dbwebb.se/kunskap/anax-som-mvc-ramverk) and here ["Bygg en me-sida med Anax-MVC"](http://dbwebb.se/kunskap/bygg-en-me-sida-med-anax-mvc). 
