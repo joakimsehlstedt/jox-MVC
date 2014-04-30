@@ -1,0 +1,275 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"con",
+				"content_footer"
+			],
+			[
+				"sty",
+				"style"
+			],
+			[
+				"Comm",
+				"CommentController"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"co",
+				"count"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "kmom03.TODO",
+			"settings":
+			{
+				"buffer_size": 331,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"selected_items":
+		[
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"tas",
+				"Tasks: New document"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/sehlstedt/Documents/Joakim/MAMP_htdocs/phpmvc/kmom03/app/config/theme-grid.php",
+		"/Users/sehlstedt/Documents/Joakim/MAMP_htdocs/phpmvc/kmom03/app/content/kmom03.md",
+		"/Users/sehlstedt/Documents/Joakim/MAMP_htdocs/phpmvc/kmom03/webroot/css/source.css",
+		"/Users/sehlstedt/Documents/Joakim/MAMP_htdocs/phpmvc/kmom03/webroot/css/anax-grid/structure.less",
+		"/Users/sehlstedt/Documents/Joakim/MAMP_htdocs/phpmvc/kmom03/webroot/css/anax-grid/responsive.less",
+		"/Users/sehlstedt/Documents/Joakim/MAMP_htdocs/phpmvc/kmom03/webroot/theme.php",
+		"/Users/sehlstedt/Documents/Joakim/MAMP_htdocs/phpmvc/kmom03/kmom03.TODO",
+		"/Users/sehlstedt/Documents/Joakim/MAMP_htdocs/phpmvc/kmom03/app/content/byline.md",
+		"/Users/sehlstedt/Documents/Joakim/MAMP_htdocs/phpmvc/kmom03/app/view/theme/page.tpl.php",
+		"/Users/sehlstedt/Documents/Joakim/MAMP_htdocs/phpmvc/kmom03/app/content/footer_test.md",
+		"/Users/sehlstedt/Documents/Joakim/MAMP_htdocs/phpmvc/kmom03/webroot/index.php",
+		"/Users/sehlstedt/Documents/Joakim/MAMP_htdocs/phpmvc/kmom03/theme/anax-grid/index.tpl.php",
+		"/Users/sehlstedt/Documents/Joakim/MAMP_htdocs/phpmvc/kmom03/app/content/kmom01.md",
+		"/Users/sehlstedt/Documents/Joakim/MAMP_htdocs/phpmvc/kmom03/app/content/kmom02.md",
+		"/Users/sehlstedt/Documents/Joakim/MAMP_htdocs/phpmvc/kmom03/app/view/theme/header.tpl.php",
+		"/Users/sehlstedt/Documents/Joakim/MAMP_htdocs/phpmvc/kmom03/app/config/navbar_me.php",
+		"/Users/sehlstedt/Documents/Joakim/MAMP_htdocs/phpmvc/kmom03/webroot/css/anax-grid/style.less",
+		"/Users/sehlstedt/Documents/Joakim/MAMP_htdocs/phpmvc/kmom03/webroot/css/anax-grid/font-awesome-4.0.3/less/variables.less",
+		"/Users/sehlstedt/Documents/Joakim/MAMP_htdocs/phpmvc/kmom03/app/config/theme.php",
+		"/Users/sehlstedt/Documents/Joakim/MAMP_htdocs/phpmvc/kmom03/webroot/css/anax-grid/variables.less",
+		"/Users/sehlstedt/Documents/Joakim/MAMP_htdocs/phpmvc/kmom03/webroot/css/anax-grid/vendor-prefixes.less",
+		"/Users/sehlstedt/Documents/Joakim/MAMP_htdocs/phpmvc/kmom03/app/content/loremipsum_short.md",
+		"/Users/sehlstedt/Documents/Joakim/MAMP_htdocs/phpmvc/kmom03/app/content/loremipsum.md",
+		"/Users/sehlstedt/Documents/Joakim/MAMP_htdocs/phpmvc/kmom03/webroot/css/anax-grid/navbar.less",
+		"/Users/sehlstedt/Documents/Joakim/MAMP_htdocs/phpmvc/kmom03/app/content/Lorem Ipsum.md",
+		"/Users/sehlstedt/Documents/Joakim/MAMP_htdocs/phpmvc/kmom03/webroot/css/anax-grid/typography.less",
+		"/Users/sehlstedt/Documents/Joakim/MAMP_htdocs/phpmvc/kmom03/webroot/css/anax-grid/mixins.less",
+		"/Users/sehlstedt/Documents/Joakim/MAMP_htdocs/phpmvc/kmom03/webroot/css/anax-grid/grid.less",
+		"/Users/sehlstedt/Documents/Joakim/MAMP_htdocs/phpmvc/kmom03/webroot/css/anax-grid/typography copy.less",
+		"/Users/sehlstedt/Documents/Joakim/MAMP_htdocs/phpmvc/kmom03/webroot/css/anax-grid/normalize.less",
+		"/Users/sehlstedt/Documents/Joakim/MAMP_htdocs/phpmvc/kmom03/app/config/theme_me.php",
+		"/Users/sehlstedt/Documents/Joakim/MAMP_htdocs/phpmvc/kmom03/app/view/me/header.tpl.php",
+		"/Users/sehlstedt/Documents/Joakim/MAMP_htdocs/phpmvc/kmom03/theme/anax-base/index.tpl.php",
+		"/Users/sehlstedt/Documents/Joakim/MAMP_htdocs/phpmvc/kmom03/webroot/css/figure.css",
+		"/Users/sehlstedt/Documents/Joakim/MAMP_htdocs/phpmvc/kmom03/webroot/css/navbar_me.css",
+		"/Users/sehlstedt/Documents/Joakim/MAMP_htdocs/phpmvc/kmom03/webroot/css/style.css",
+		"/Users/sehlstedt/Documents/Joakim/MAMP_htdocs/phpmvc/kmom03/kmom03.sublime-project",
+		"/Users/sehlstedt/Documents/Joakim/MAMP_htdocs/phpmvc/kmom02/me-page/config.codekit",
+		"/Users/sehlstedt/Documents/Joakim/MAMP_htdocs/phpmvc/kmom02/me-page/LICENSE.txt",
+		"/Users/sehlstedt/Documents/Joakim/MAMP_htdocs/phpmvc/kmom02/me-page/app/config/navbar_me.php",
+		"/Users/sehlstedt/Documents/Joakim/MAMP_htdocs/phpmvc/kmom02/me-page/webroot/css/comment.css",
+		"/Users/sehlstedt/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/sehlstedt/Documents/Joakim/MAMP_htdocs/phpmvc/kmom02/me-page/webroot/index.php",
+		"/Users/sehlstedt/Documents/Joakim/MAMP_htdocs/phpmvc/kmom02/me-page/app/config/navbar.php",
+		"/Users/sehlstedt/Documents/Joakim/MAMP_htdocs/phpmvc/kmom02/me-page/webroot/page-with-comments_2.php",
+		"/Users/sehlstedt/Documents/Joakim/MAMP_htdocs/phpmvc/kmom02/me-page/app/view/comment/edit.tpl.php",
+		"/Users/sehlstedt/Documents/Joakim/MAMP_htdocs/phpmvc/kmom02/me-page/app/view/comment/comments.tpl.php",
+		"/Users/sehlstedt/Documents/Joakim/MAMP_htdocs/phpmvc/kmom02/me-page/app/view/comment/form.tpl.php",
+		"/Users/sehlstedt/Documents/Joakim/MAMP_htdocs/phpmvc/kmom02/me-page/webroot/index2.php",
+		"/Users/sehlstedt/Documents/Joakim/MAMP_htdocs/phpmvc/kmom02/felsok/kmom02/webroot/page-with-comments.php",
+		"/private/var/folders/l2/6d5frs7j76l04nqv1nwnv4vw0000gn/T/fz3temp-1/page-with-comments.php",
+		"/private/var/folders/l2/6d5frs7j76l04nqv1nwnv4vw0000gn/T/fz3temp-1/index.php",
+		"/private/var/folders/l2/6d5frs7j76l04nqv1nwnv4vw0000gn/T/fz3temp-1/config.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"@gutter-bottom",
+			"@fa-font",
+			"import",
+			"include",
+			"zoom",
+			"*",
+			"zoom",
+			"body",
+			"zoom",
+			"body"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"@magicNumber"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "kmom03.TODO",
+					"settings":
+					{
+						"buffer_size": 331,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								327,
+								327
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PlainTasks/PlainTasks.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"typ",
+				"webroot/css/anax-grid/typography.less"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 202.0,
+	"status_bar_visible": true
+}

@@ -1,0 +1,105 @@
+/**
+ * Layout of the main page elements 
+ */
+html.blue {
+    background-color: blue;
+}
+html.grey {
+    background-color: #bbb;
+}
+html.green {
+    background-color: #B1C9B1;
+}
+body.blog {
+    color: red;
+}
+body.gallery {
+    color: pink;
+}
+body.new {
+    color: #234623;
+}
+
+#wrapper {
+    max-width: 960px;
+    margin:0 auto;
+    box-shadow: 0px 0px 10px #888888;
+    margin-bottom: @magicNumber;
+    margin-top: @magicNumber;
+    background-color: white;
+    border:0px solid;
+    border-radius:10px;
+}
+
+#wrapper.grid {
+    background-image: url('../../img/grid_12_60_20.png');
+}
+
+#header,
+#navbar,
+#flash,
+#footer {
+    .column(@columns);
+}
+
+#flash {
+    color: red;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+ 
+#main {
+    .column(@columns);
+    margin-bottom: @magicNumber;
+}
+ 
+#sidebar {
+    .column(@columns / 3);
+    margin-bottom: @magicNumber;
+}
+ 
+#featured-1,
+#featured-2,
+#featured-3,
+#triptych-1,
+#triptych-2,
+#triptych-3 {
+    .column(@columns / 3);
+    margin-bottom: @magicNumber;
+}
+ 
+#footer-col-1,
+#footer-col-2,
+#footer-col-3, 
+#footer-col-4 {
+    .column(@columns / 4);
+    margin-bottom: @magicNumber;
+}
+
+#wrap-featured,
+#wrapper,
+#wrap-triptych,
+#wrap-footer-col {
+    .clearfix();
+}
+
+#header {
+    height: 66px;
+}
+
+#sitelogo {
+    height: 66px;
+}
+
+#sitetitle {
+    position: relative;
+    top: -22px;
+    font-size: 33px;
+}
+
+#siteslogan {
+    position: relative;
+    top: -22px;
+    font-size: 22px;
+}

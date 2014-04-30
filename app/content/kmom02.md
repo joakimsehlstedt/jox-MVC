@@ -1,0 +1,18 @@
+Kmom02: Kontroller och modeller
+------------------------------------
+ 
+###Introduktion###
+Med detta kursmoment så pressar jag mig in i MVC världen. Jag måste säga att det är mycket att greppa på ett bräde, men som vanligt så faller småbitarna på plats, en efter en. Jag kan inte säga att jag kan allt vi gått igenom, men jag känner att jag börjar få ett hum för hur det hänger ihop och fungerar. 
+
+###Utförande###
+**Composer** - Composer gör mig lite lätt nervös. Nog för att det är lätt att implementera funktionen, men tanken på att man skruvar fast något på utsidan av projektet känns lite störande så här initialt. Vad händer t ex när man som i den här uppgiften ändrar på koden i paketet man skruvat fast? Man kan väl inte återställa eller lita på att man får tillbaka rätt kodbas om man installerar applikationen på ett annan plats? Eller är tanken att det är en utgångspunkt i början av ett projekt? Jag får för mig att grundtanken är att skruva fast "librarycode" som man inte tänker ändra på men som man behöver till sitt projekt? Kanske får jag svaren på dessa frågor så småningom kanske är min frågor lite smått dumma för den invigde...
+
+**Packagist** - Det finns en uppsjö av intressanta paket på Packagist, i varjefall ser det ut så vid första anblick. Jag måste säga att jag kämpar hårt för att hinna med uppgifterna i rätt tempo, så jag tillät mig inte att surfa runt på denna site så mycket. Men av det lilla jag såg så ser t ex SwiftMailer intressant ut. Så fort man har användare med konton och login brukar det vara nästan tvunget att ha någon form av email kommunikation från siten för att inte överösa webmaster med administrativt jobb. 
+
+**Begrepp och koncept** - Att lära sig MVC principen och ett nytt ramverk med dess specifika språk på samma gång är en fet uppgift. Mitt huvud känns en aning tjockt för tillfället. Men samtidigt kan jag se att det är, som med alla programmeringsprinciper, svårt att riktigt fatta utan att blanda teori med riktigt utmanande praktik. Jag tycker mig skönja ett mönster i det hela och det känns som jag plockat upp annan viktig kunskap som t ex anonyma funktioner, traits och DI principer. Jag lyckas få saker att fungera, eller i varje fall röra på sig, vilket måste vara ett framsteg. Jag kan inte riktigt se exakt vad det är man vinner på att skapa ett till abstraktionslager men säger ja till framtidssäker och underhållsvänlig kod. Just nu får jag lita på att de som har gått före verkligen har rätt, även om det känns lite frustrerande att inte greppa hela kakan.
+
+**Svagheter/Förbättringar** - Jag han inte titta så mycket på specifika svagheter. Det enda jag funderade lite på var att defaultvärden på funktions parametrar inte alltid fanns på plats. Jag har inte erfarenhet nog för att säga att man alltid ska ha med det eller om det bara behövs på "extra" parametrar. Det är väl en till sak som ger sig när man blir lite torrare bakom öronen.
+
+###Egen reflektion###
+En lite reflektion är det här med att implementera kod som andra har utvecklat i sina egna projekt. Ju större paket man skruvar på desto svårare är det att ha koll på om koden är bra eller inte. Jag antar att det är ganska vanligt att kod fungerar men inte är så säker, och hur kan man ha koll på det om man inte hinner lusläsa koden? Ska man bara lita blint? Jag har själv lite erfarenhet av att administrera Joomla webbplatser sedan innan. I början använde jag mycket externa moduler men gick så sakteliga ifrån detta då jag fick problem med säkerhetsintrång och ostabila processer. Jag kunde inte programmera själv på den tiden så jag fick lita helt på andras jobb. Men det blir väl lite samma sak även om man kan läsa kod men man kanske inte hinner gå igenom den?
+
